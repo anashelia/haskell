@@ -1,0 +1,1 @@
+-- same as lab6_questions.hs

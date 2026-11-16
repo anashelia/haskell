@@ -1,7 +1,3 @@
-{- Ana Shelia
-   ANX64S
--}
-
 --1
 sortByStart :: [(Int, Int)] -> [(Int, Int)]
 sortByStart [] = []
