@@ -1,1 +1,0 @@
--- same as lab5_questions.hs

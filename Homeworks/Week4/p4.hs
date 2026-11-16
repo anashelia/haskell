@@ -1,1 +1,0 @@
--- same as lab4_questions.hs 
